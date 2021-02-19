@@ -13,12 +13,12 @@ top:
     icon: "fa fa-users"
 
 main:
-  #- link: /aktuality/
-  #  name: Aktuality
-  #  match: aktuality
-  #- link: /lide/
-  #  name: O nás
-  #  match: lide
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality
+  - link: /lide/
+    name: O nás
+    match: lide
   #- link: /kandidatka/
   #  name: Kandidátka pro KV
   #  match: kandidatka

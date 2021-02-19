@@ -1,7 +1,7 @@
 ---
 layout: contacts
-description: Pirátská strana v Libereckém kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
-keywords: piráti, liberecký kraj, krajské sdružení, kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
+description: Pirátská strana v Jilemnci je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+keywords: piráti, Jilemniceliberecký kraj, krajské sdružení, kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 # noresidence: yes
 contentSize: default
