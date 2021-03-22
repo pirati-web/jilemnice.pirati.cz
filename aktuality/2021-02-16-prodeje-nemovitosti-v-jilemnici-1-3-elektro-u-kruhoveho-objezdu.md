@@ -1,7 +1,7 @@
 ---
 date: 2021-02-16
 category: blog
-tags: jilemnice prodej elektro planeo nemovitosti
+tags: jilemnice, prodej, elektro, planeo, nemovitosti
 layout: post
 title: Prodeje nemovitostí v Jilemnici (1/3) - Elektro u kruhového objezdu
 author: Vojtěch Mečíř
