@@ -9,7 +9,7 @@ authorId: vojtech.mecir
 image: posts/jilemnice/2021-02-16-prodeje-nemovitosti-v-jilemnici-2-3-cp-21.jpg
 ---
 
-*V rámci [Zprávy o prodeji nemovitostí z majetku města Jilemnice]() vám přinášíme příběh prodeje budovy č.p. 21 v Dolení ulici. Existuje důvodné podezření, že zájemce dostal 20% slevu z odhadní ceny pomocí fiktivní aukce. Tu navíc pořádala externí firma bývalého náměstka libereckého kraje, která za ni dostala 49.000,-. Článek jsme k vyjádření poslali starostovi Jilemnice Vladimíru Richterovi (ODS). Bez bližších podrobností napsal, že text obsahuje „věcné nesmysly a nepravdy”. My však vycházíme ze zápisů a záznamů zastupitelstva a rady města Jilemnice a na ně v textu odkazujeme.*
+*V rámci [Zprávy o prodeji nemovitostí z majetku města Jilemnice](prodeje-nemovitosti-v-jilemnici-3-3.html) vám přinášíme příběh prodeje budovy č.p. 21 v Dolení ulici. Existuje důvodné podezření, že zájemce dostal 20% slevu z odhadní ceny pomocí fiktivní aukce. Tu navíc pořádala externí firma bývalého náměstka libereckého kraje, která za ni dostala 49.000,-. Článek jsme k vyjádření poslali starostovi Jilemnice Vladimíru Richterovi (ODS). Bez bližších podrobností napsal, že text obsahuje „věcné nesmysly a nepravdy”. My však vycházíme ze zápisů a záznamů zastupitelstva a rady města Jilemnice a na ně v textu odkazujeme.*
 
 Město Jilemnice se v roce 2017 [usnesením zastupitelstva rozhodlo](http://mestojilemnice.cz/data/jil_files/9816/zm28.pdf){:target="_blank"}, že ze svého majetku prodá nemovitost č.p. 21. Jde o budovu s oranžovou fasádou za prodejnou Magisport (půjčovna a prodejna sportovního vybavení). K č.p. 21 však nyní vede přístupová cesta přes pozemek M. K. (majitele přilehlé budovy, kde sídlí zmíněný Magisport). Případný jiný zájemce by tedy mohl k budově pouze pěšky (cca 40m), nikoli k ní zajet automobilem (pokud by se s M. K. nedomluvil). Nebylo tak překvapením, když se o koupi budovy přihlásil na podzim roku 2018 právě M. K. jako jediný zájemce. A ani to, když **zastupitelstvo za odhadní cenu 2,5 milionu Kč [prodej schválilo](http://mestojilemnice.cz/data/jil_files/10759/zm38a.pdf){:target="_blank"}**.
 
@@ -71,4 +71,4 @@ Jak to bylo doopravdy? **(1)** To je pravda, ale **(2)** M. K. nevycouval z žá
 
 Paradoxně by tak bylo důstojnější, kdyby zastupitelé o celé věci věděli – a souhlasili s ní. Jistě mezi nimi tací jsou. Situaci je však nutné odmítnout z principu: **Právě v takovém prostředí polopravd a netransparentních procesů se vytváří prostor pro korupci a klientelismus, kterým koneckonců zavání i tento prodej.**
 
-Možná bychom nebyli tak příkří, kdybychom nevěděli, že takový přístup není nikterak ojedinělý. Více o tom píšeme v [závěrečném díle této série]().
+Možná bychom nebyli tak příkří, kdybychom nevěděli, že takový přístup není nikterak ojedinělý. Více o tom píšeme v [závěrečném díle této série](prodeje-nemovitosti-v-jilemnici-3-3.html).
